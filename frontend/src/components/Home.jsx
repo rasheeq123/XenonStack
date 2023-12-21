@@ -40,6 +40,17 @@ const Home = () => {
           }}
 
         /> */}
+        <card>
+          <p><center>The home </center></p>
+          <Card>
+            <CardContent
+            component={img}
+            
+              image="">
+            </CardContent>
+          </Card>
+      
+        </card>
 
 
 
