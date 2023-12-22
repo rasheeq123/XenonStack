@@ -40,20 +40,7 @@ const Home = () => {
           }}
 
         /> */}
-        <card>
-          <p><center>The home </center></p>
-          <Card>
-            <CardContent
-            component={img}
-            
-              image="">
-            </CardContent>
-          </Card>
-      
-        </card>
-
-
-
+        
         <Typography gutterBottom variant="h3" component="div" align='center' marginTop='1%'>
           Booking
         </Typography>
@@ -111,14 +98,8 @@ const Home = () => {
             </Grid>
           </Grid>
         </Box>
-      </Card>
-
-      
+      </Card>      
     </div>
-
-
-
-
 
   )
 }
